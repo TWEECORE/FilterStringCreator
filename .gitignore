@@ -1,7 +1,8 @@
-.snapshots/
-app/.vscode/
-test/.vscode/
-app/.alpackages/
-test/.alpackages/
-app/.snapshots/
-test/.snapshots/
+*.zip
+rad.json
+launch.json
+Base.g.xlf
+*.app
+*.g.xlf
+*alstudio*.json
+cache_*.json

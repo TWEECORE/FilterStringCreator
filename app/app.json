@@ -10,6 +10,7 @@
     "help": "https://www.tweecore.de",
     "url": "https://www.tweecore.de",
     "contextSensitiveHelpUrl": "https://www.tweecore.de",
+    "logo": "./src/controladdin/assets/tweecore.png",
     "dependencies": [
     ],
     "screenshots": [],
