@@ -1,29 +1,30 @@
 {
-    "id":  "00000000-0000-0000-0000-000000000001",
-    "name":  "TWEECORE FORK",
-    "publisher":  "TWEECORE by HEPTACOM GmbH",
-    "brief":  "",
-    "description":  "",
-    "version":  "1.0.0.0",
-    "privacyStatement":  "",
-    "EULA":  "",
-    "help":  "",
-    "url":  "",
-    "logo":  "",
-    "dependencies":  [
-        
-                     ],
-    "screenshots":  [
-
-                    ],
-    "application":  "17.0.0.0",
-    "platform":  "17.0.0.0",
-    "idRanges":  [
-                     {
-                         "from":  70704575,
-                         "to":  70704599
-                     }
-                 ],
-    "showMyCode":  true,
-    "runtime":  "6.0"
+    "id": "e8bcce8c-4ef9-42e2-8b88-1cd2c72e5786",
+    "name": "Filter string creater",
+    "publisher": "TWEECORE by HEPTACOM GmbH",
+    "brief": "Creates optimized filter strings.",
+    "description": "With this small extension you're able to create an optimized filter string, from copied data for example from an Excel list.",
+    "version": "1.0.0.0",
+    "privacyStatement": "https://www.tweecore.de",
+    "EULA": "https://www.tweecore.de",
+    "help": "https://www.tweecore.de",
+    "url": "https://www.tweecore.de",
+    "contextSensitiveHelpUrl": "https://www.tweecore.de",
+    "dependencies": [
+    ],
+    "screenshots": [],
+    "application": "18.0.0.0",
+    "platform": "18.0.0.0",
+    "idRanges": [
+        {
+            "from": 70704751,
+            "to": 70704759
+        }
+    ],
+    "runtime": "7.0",
+    "features": [
+        "TranslationFile"
+    ],
+    "showMyCode": true,
+    "target": "Cloud"
 }

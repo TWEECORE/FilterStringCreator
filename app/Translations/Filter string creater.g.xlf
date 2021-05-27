@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Filter string creater">
+    <body>
+      <group id="body">
+        <trans-unit id="Page 3840588721 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter String Creator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TWE Filter String Creator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3840588721 - Control 235907219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a Filter String</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TWE Filter String Creator - Control FilterStringCreator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3840588721 - Action 389231548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Close</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TWE Filter String Creator - Action ActionClose - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
