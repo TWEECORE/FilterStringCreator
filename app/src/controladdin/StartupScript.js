@@ -1,21 +1,19 @@
 var body =
-    '<table class="createrBody">' +
-    '   <thead>' +
-    '   <tr>' +
-    '       <th>Source</th>' +
-    '       <th>Processed</th>' +
-    '   </tr>' +
-    '   </thead>' +
-    '   <tr>' +
-    '       <td><textarea id="inputArea" cols="25" rows="40" class="inline-txtarea"></textarea></td>' +
-    '       <td><textarea id="outputArea" cols="25" rows="40" class="inline-txtarea"></textarea></td>' +
-    '   </tr>' +
-    '</table>' +
-    '<div class="containerForButtons">' +
-    '   <button id="btnClear" type="button">clear</button>' +
-    '   <button id="btnProcess" type="button" class="middleButton">process</button>' +
-    '   <button id="btnCopyToClip" type="button">copy</button>' +
-    '</div>'
+    '   <table class="createrBody">' +
+    '       <tr>' +
+    '           <td class="headline">Source</td>' +
+    '           <td class="headline">Processed</td>' +
+    '       </tr>' +
+    '       <tr>' +
+    '           <td><textarea id="inputArea" cols="25" rows="40" class="inline-txtarea"></textarea></td>' +
+    '           <td><textarea id="outputArea" cols="25" rows="40" class="inline-txtarea"></textarea></td>' +
+    '       </tr>' +
+    '   </table>' +
+    '   <div class="containerForButtons">' +
+    '       <button id="btnClear" type="button" class="defaultButton">Clear</button>' +
+    '       <button id="btnProcess" type="button" class="middleButton defaultButton">Process</button>' +
+    '       <button id="btnCopyToClip" type="button" class="defaultButton">Copy</button>' +
+    '   </div>';
 
 var control = document.getElementById('controlAddIn');
 control.innerHTML = body;
