@@ -1,7 +1,7 @@
 {
     "id": "e8bcce8c-4ef9-42e2-8b88-1cd2c72e5786",
     "name": "Filter String Creator",
-    "publisher": "TWEECORE by HEPTACOM GmbH",
+    "publisher": "HEPTACOM GmbH",
     "brief": "Creates optimized filter strings.",
     "description": "With this small extension you're able to create an optimized filter string, from copied data for example from an Excel list.",
     "version": "1.0.0.0",
