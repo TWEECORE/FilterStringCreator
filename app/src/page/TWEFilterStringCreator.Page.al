@@ -3,8 +3,10 @@
 /// </summary>
 page 70704751 "TWE Filter String Creator"
 {
+    ApplicationArea = All;
     PageType = NavigatePage;
     UsageCategory = Administration;
+    AdditionalSearchTerms = 'tweecore,creator';
     Caption = 'Filter String Creator';
 
     layout
