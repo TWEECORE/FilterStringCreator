@@ -6,7 +6,7 @@ pool:
 
 steps:
   - task: PowerShell@2
-    condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/master'))
+    condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/DesignChanges'))
     inputs:
       targetType: "inline"
       script: |
