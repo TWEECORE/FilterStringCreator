@@ -1,7 +1,7 @@
 /// <summary>
-/// Page TWE Filter String Creator (ID 70704751).
+/// Page TWE Filter String Creator (ID 50000).
 /// </summary>
-page 70704751 "TWE Filter String Creator"
+page 50000 "TWE Filter String Creator"
 {
     ApplicationArea = All;
     PageType = NavigatePage;

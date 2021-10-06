@@ -1,7 +1,7 @@
 /// <summary>
 /// ControlAddIn "TWEFilterStringCreatorControl."
 /// </summary>
-controladdin "TWEFilterStringCreator"
+controladdin 50000
 {
     HorizontalShrink = true;
     HorizontalStretch = true;
